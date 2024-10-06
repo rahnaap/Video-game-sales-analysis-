@@ -5,4 +5,3 @@ This report provides a comprehensive analysis of video game sales data in North 
 [Analysis Project](https://github.com/rahnaap/Video-game-sales-analysis-/blob/main/Video-games-sales.pdf)
 ## Tools
 Microsoft excel
-## Dataset
